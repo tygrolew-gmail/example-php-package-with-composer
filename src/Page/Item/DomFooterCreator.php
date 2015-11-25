@@ -24,7 +24,7 @@ class DomFooterCreator implements IFooterCreator
   {
     $this->createFooterContent();
 
-    $dom  = new DOMDocument();
+    $dom  = new \DOMDocument();
     $frag = $dom->createDocumentFragment();
     $frag->appendXML('<hr/>');
     $div  = $dom->createElement('div');
