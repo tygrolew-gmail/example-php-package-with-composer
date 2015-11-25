@@ -48,7 +48,7 @@ class DomFooterCreator implements IFooterCreator
       $year = date("Y"); // current year
     }
     if ($this->author !== null) {
-      $this->footerContent = "&copy; " . $year . " ". $this->author;
+      $this->footerContent = "© " . $year . " ". $this->author;
     }
     else {
       $this->footerContent = "Footer";
