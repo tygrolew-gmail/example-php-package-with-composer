@@ -1,0 +1,11 @@
+{
+    "name": "tygrolew-gmail/example-php-package-with-composer",
+    "autoload": {
+        "psr-4" : {
+            "TygrolewGmail\\Page\\Item\\": "src/Page/Item/"
+        },
+        "files": [
+            "/src/Utils/Functions/_d.php"
+        ]
+    }
+}

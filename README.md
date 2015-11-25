@@ -1,2 +1,2 @@
-# example-php-package-without-composer
-Example PHP package without composer
+# example-php-package-with-composer
+Example PHP package with composer
