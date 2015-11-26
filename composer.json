@@ -7,5 +7,10 @@
         "files": [
             "/src/Utils/Functions/_d.php"
         ]
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-footer": "0.x-dev"
+        }
     }
 }
