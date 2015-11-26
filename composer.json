@@ -10,7 +10,8 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-footer": "0.x-dev"
+            "dev-master": "0.0.1-dev"
+            "dev-footer": "0.0.2-dev"
         }
     }
 }
